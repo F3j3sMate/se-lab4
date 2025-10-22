@@ -1,0 +1,3 @@
+SUCCESS     #gt4500 létrehozás
+SUCCESS    
+FAIL        
